@@ -1,4 +1,4 @@
-package com.example.RestaurantBookingApp;
+package com.example.SpringDemo;
 
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
